@@ -1,0 +1,25 @@
+{
+  "name": "valdansmedia",
+  "version": "1.0.0",
+  "description": "This is a Multimedia Company",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StuartDambi/valdansmedia.github.io.git"
+  },
+  "keywords": [
+    "film"
+  ],
+  "author": "dambi_stuart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StuartDambi/valdansmedia.github.io/issues"
+  },
+  "homepage": "https://github.com/StuartDambi/valdansmedia.github.io#readme",
+  "dependencies": {
+    "express": "^4.17.0"
+  }
+}
